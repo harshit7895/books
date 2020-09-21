@@ -1,0 +1,2 @@
+class Artcraft < ApplicationRecord
+end
